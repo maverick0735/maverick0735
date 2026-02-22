@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @maverick0735
-- 👀 I’m interested in Cybersecurity 
-- 🌱 I’m currently learning Cybersecurity as my desired Career .
-- 💞️ I’m looking to collaborate on Web Development 
-- 📫 How to reach me You can reach me with my email faolakayode0@gmail.com or through WhatsApp (07069500753)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I'm Keylogger a Student of the University Of Lagos Currently Studying Computer Science.I'm passionate about Cybersecurity and I'm Currently on 365Days Challenge on LInkedin
+    Have earned different Some important Certs Through Cisco 
+    InTro To Cybersecurity
+    Networking Basics 
+ANd i'm currently Preparing for my ISC2 CC exxamination. I'm also a Problem and an active CTf Paticipant,I'm Learning python to automate basic steps.I Configured my Lab which now has Kali and Matasploitable on it. I'm a Curious Learner who adapts to changes. 
 
-<!---
-maverick0735/maverick0735 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
