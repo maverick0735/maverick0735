@@ -6,7 +6,6 @@ Passionate about ethical hacking, networking, and security automation. I am curr
 ---
 
 ### 🚀 What I'm Working On
-- 🎓 Preparing for the **ISC2 Certified in Cybersecurity (CC)** exam.
 - 🐍 Building Python scripts for security automation (see my Keylogger project!).
 - 🧪 Expanding my Home Lab (Kali Linux & Metasploitable).
 - 🚩 Active CTF participant (TryHackMe, OverTheWire, PicoCTF).
@@ -14,6 +13,7 @@ Passionate about ethical hacking, networking, and security automation. I am curr
 ### 📜 Certifications
 - ✅ **Cisco**: Introduction to Cybersecurity
 - ✅ **Cisco**: Networking Basics
+- Google Cybersecurity Cert 
 
 ### 🛠️ Tech Stack
 - **OS**: Kali Linux, Windows Server
